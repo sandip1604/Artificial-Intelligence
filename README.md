@@ -1,5 +1,9 @@
 # Artificial Intelligence
  Contains programs created for Certain algorithms used for solving AI problems
+
+
+
+
 File : "8-Puzzle problem using BFS-DFS-Astar.py"
              Discription: This file contains code that implements the 8 - puzzle problem using 3 different algorithms, namely breadth first
              search (BFS),Depth First Search (DFS) and A*.
